@@ -37,9 +37,9 @@
           unit="trans-unit">0</count>
       </count-group>
       <tool
-        tool-id="MadCap Lingo 10"
+        tool-id="MadCap Lingo 11 r2 (Lingo release)"
         tool-name="Lingo"
-        tool-version="10.1.6367.6648"
+        tool-version="11.1.8396.18872"
         tool-company="MadCap Software" />
     </header>
     <body></body>
